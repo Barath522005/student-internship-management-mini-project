@@ -1,0 +1,8 @@
+{
+  "name": "Remix Student Internship and Placement Management System",
+  "description": "A comprehensive college mini project platform for students to discover internships, apply, track statuses, and for administrators to manage postings and applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
